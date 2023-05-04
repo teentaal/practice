@@ -1,0 +1,48 @@
+[{
+    "CollegeInfo":[{
+                    "District":"Kolhapur",
+                    "CollegeName":"Chattrapati Shivaji Maharaja College",
+                    "CollegeCodeId":""
+                  },
+                  {
+                    "District":"Ahmedabad",
+                    "CollegeName":"Chattrapati Shivaji Maharaja College",
+                    "CollegeCodeId":""
+                  },
+                  {
+                    "District":"Jalana",
+                    "CollegeName":"Chattrapati Shivaji Maharaja College",
+                    "CollegeCodeId":""
+                  },
+                  {
+                    "District" : "Beed",
+                    "CollegeName" : "Vaishnavi Mahavidyalaya,Wadwani",
+                    "CollegeCodeId":"A1081"
+                  },
+                  {
+                    "District" : "Buldhana",
+                    "CollegeName" : "Arts & Sci. Mahila Mahavidyalaya Mehkar Dist. Buldana",
+                    "CollegeCodeId":"A1128"
+                  },
+                  {
+                    "District" : "Mumbai",
+                    "CollegeName" : "G.N.KHALSA COLLEGE OF ARTS, SCIENCE & COMMERE",
+                    "CollegeCodeId":"A298"
+                  },
+                  {
+                    "District" : "Nagpur",
+                    "CollegeName" : "Womens College of Commerce & Arts Nandanvan, Nagpur",
+                    "CollegeCodeId":"A405"
+                  },
+                  { 
+                    "District" : "Pune",
+                    "CollegeName" : "ILS Law College",
+                    "CollegeCodeId":"A691"
+                  },
+                  {
+                    "District" : "Raigad",
+                    "CollegeName" : "VEER WAJEKAR A.S.C. COLLEGE PHUNDE",
+                    "CollegeCodeId":"A725"
+                   }]
+
+}]
